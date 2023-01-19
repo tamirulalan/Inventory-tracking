@@ -1,0 +1,32 @@
+{
+  "name": "inventory-tracking-express-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamirulalan/Inventory-tracking-express-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamirulalan/Inventory-tracking-express-/issues"
+  },
+  "homepage": "https://github.com/tamirulalan/Inventory-tracking-express-#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cloudinary": "^1.33.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "socket.io": "^4.5.4",
+    "stripe": "^11.7.0",
+    "validator": "^13.7.0"
+  }
+}
